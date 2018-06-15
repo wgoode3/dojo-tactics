@@ -149,6 +149,13 @@ Tactics game in the style of Advance Wars
 </details>
 
 <details>
+  <summary>【東方Vocal／Dance Pop】 Shangri-La Moonlight 「SOUND HOLIC」</summary>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=FKxZ164vZXc" 
+  target="_blank"><img src="http://img.youtube.com/vi/FKxZ164vZXc/0.jpg" 
+  alt="【東方Vocal／Dance Pop】 Shangri-La Moonlight 「SOUND HOLIC」" width="240" height="180" border="10" /></a>
+</details>
+
+<details>
   <summary>【東方Vocal／Eurobeat】 秋意浓 〜Qiū yì nóng〜 「A-ONE」【JPN Subtitle】</summary>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=C-iSc7RxSRk" 
   target="_blank"><img src="http://img.youtube.com/vi/C-iSc7RxSRk/0.jpg" 
